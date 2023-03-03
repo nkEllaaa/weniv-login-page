@@ -1,0 +1,79 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+}
+.main-box{
+  width: 350px;
+  height: 140px;
+  top: 30px;
+  left: 25px;
+  border: 1px solid #DBDBDB;
+  border-radius: 5px;
+  position: relative;
+}
+.main-box .comment-box{
+  position: absolute;
+  width: 220px;
+  height: 15;
+  top: 19px;
+  left: 16px;
+  line-height: 15.02px;
+}
+.main-box .login-box{
+  position: absolute;
+  width: 318px;
+  height: 40px;
+  left: 16px;
+  top: 50px;
+  bottom: 50px;
+  right: 16px;
+  background-color: #711BFF;
+  border-radius: 8px;
+}
+.main-box .login-box .logo-img{
+  width: 64px;
+  height: 18px;
+  position: absolute;
+  left: 100px;
+  top: 10px;
+}
+.main-box .login-box .login-text{
+  color: white;
+  position: absolute;
+  width: 34px;
+  height: 15px;
+  left: 170px;
+  top: 10px;
+}
+.main-box .icon-lock{
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 106px;
+  left: 16px;
+}
+.main-box .id-pwd-text{
+  position: absolute;
+  width: 113px;
+  height: 15px;
+  top: 105px;
+  left: 38px;
+  color: #767676;
+}
+.main-box .icon-user{
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 106px;
+  left: 269px;
+}
+.main-box .sign-in{
+  position: absolute;
+  color: #767676;
+  width: 60px;
+  height: 16px;
+  top: 106px;
+  left: 287px;
+}
