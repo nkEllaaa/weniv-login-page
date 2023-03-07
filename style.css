@@ -44,8 +44,8 @@ body{
   position: absolute;
   width: 34px;
   height: 15px;
-  left: 170px;
   top: 10px;
+  left: 170px;
 }
 .main-box .icon-lock{
   position: absolute;
@@ -74,6 +74,6 @@ body{
   color: #767676;
   width: 60px;
   height: 16px;
-  top: 106px;
-  left: 287px;
+  top: 75%;
+  left: 82%;
 }
